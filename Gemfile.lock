@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bubble-wrap (1.7.1)
+      bubble-wrap-http (= 1.7.1)
+    bubble-wrap-http (1.7.1)
+    codependency (2.0.0)
+    map-kit-wrapper (0.0.5)
+      codependency (= 2.0.0)
+      rake
+    rake (10.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bubble-wrap
+  bubble-wrap-http
+  map-kit-wrapper
+  rake
